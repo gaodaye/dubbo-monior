@@ -1,0 +1,2 @@
+# dubbo-monior
+将zookeeper注册中心内所有dubbo服务的上下线信息发送微信给应用的owner
